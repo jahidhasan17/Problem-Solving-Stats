@@ -12,4 +12,4 @@
 | CSES | [jahid_hasan172](https://cses.fi/user/43436) | 70 |
 | Toph | [jahid_hasan17](https://toph.co/u/jahid_hasan17) | 43 |
 | HackerEarth | [jahid_hasan17](https://www.hackerearth.com/@jahid_hasan17) | 59 |
-| Total | | 1805 |
+| Total | | 1915 |
