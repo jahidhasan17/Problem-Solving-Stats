@@ -5,7 +5,7 @@
 | -- | -------- | ----------- |
 | Codeforces | [jahid_hasan172](https://codeforces.com/profile/jahid_hasan172) | 1049 |
 | Vjudge | [jahid__hasan](https://vjudge.net/user/jahid__hasan) | 279 |
-| Leetcode | | 110 |
+| Leetcode | [jahid_hasan17](https://leetcode.com/u/jahid_hasan17/) | 110 |
 | LightOJ | [jhasan17432](https://lightoj.com/user/jhasan17432) | 176 | 
 | AtCoder | [jahid_hasan17](https://atcoder.jp/users/jahid_hasan17) | 99 |
 | SPOJ | [jahid_hasan17](https://www.spoj.com/users/jahid_hasan17/) | 30 | 
